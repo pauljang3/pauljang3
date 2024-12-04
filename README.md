@@ -12,8 +12,10 @@ Welcome to my GitHub! I'm an IT professional focused on building my career in IT
 
 ---
 ## Certifications
-[![comptia-a-ce-certification 1](https://github.com/user-attachments/assets/aad40c41-fb78-4bec-9fac-402304d90e8a)](https://www.credly.com/badges/7ed85242-381b-4336-b556-bb5aec8cf231/public_url)
-[![comptia-security-ce-certification](https://github.com/user-attachments/assets/d9f341ee-33ec-4202-a1f5-0cb7bc85d4b8)](https://www.credly.com/badges/54994e8a-e0f9-4757-931d-93ab319698ae/public_url)
+[![comptia-a-ce-certification 1 (1)](https://github.com/user-attachments/assets/2a57cd6f-9236-4a8a-b6af-b4423b2dba41)](https://www.credly.com/badges/7ed85242-381b-4336-b556-bb5aec8cf231/public_url)
+[![comptia-security-ce-certification (1)](https://github.com/user-attachments/assets/3279d98f-de56-4432-8d07-273e7e78b90d)](https://www.credly.com/badges/54994e8a-e0f9-4757-931d-93ab319698ae/public_url)
+
+
 
 Feel free to explore my projects and provide feedback! I'm always looking for ways to grow and improve my IT skills.  
 
