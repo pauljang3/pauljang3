@@ -12,7 +12,7 @@ Welcome to my GitHub! I'm an IT professional focused on building my career in IT
 
 Feel free to explore my projects and provide feedback! I'm always looking for ways to grow and improve my IT skills.  
 
-Looking forward to connecting with fellow tech enthusiasts! 🌱
+Looking forward to connecting with fellow tech enthusiasts! 🖧
 
 ---
 ## Certifications
