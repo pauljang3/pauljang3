@@ -4,11 +4,13 @@ Welcome to my GitHub! I'm an IT professional focused on building my career in IT
 
 ### Portfolio Projects
 
-- **[Help Desk Experience](https://github.com/pauljang3/HelpDesk-Experience)**  
+- **[Help Desk Experience](https://github.com/pauljang3/HelpDesk-Experience)**  🔧  
   A collection of real-world IT issues I’ve solved in a SOHO (Small Office/Home Office) environment, alongside mock problems created for practice. This repository includes Jira tickets that demonstrate how I resolved common IT challenges, such as network drive issues, software conflicts, and printer troubleshooting.
 
-- **[Home Lab](https://github.com/pauljang3/HomeLab)**  
+- **[Home Lab](https://github.com/pauljang3/HomeLab)**  🏠  
   I set up a virtualized Active Directory environment using Oracle VM VirtualBox to experiment with domain management, networking, and automating administrative tasks. This project covers configuring a Domain Controller, setting up DHCP and NAT, and automating user account creation with PowerShell scripts.
+- **[PDF Scan Automation](https://github.com/pauljang3/PDFScanAutomation/tree/main)**  ⚙️  
+  I developed a Python script to automate the process of combining multiple PDF files, which significantly speeds up document processing. The script also moves the combined file to a designated network share and automatically deletes the original files from the local drive, streamlining document management and improving efficiency.
 
 Feel free to explore my projects and provide feedback! I'm always looking for ways to grow and improve my IT skills.  
 
